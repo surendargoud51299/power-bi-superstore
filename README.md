@@ -1,4 +1,4 @@
-# objective
+# Objective
 The primary objective of this dashboard is to provide a comprehensive overview of sales, profit, and return trends across different categories and customer segments. It enables business decision-makers to:
 
 **Analyze Sales Performance:**
@@ -12,7 +12,7 @@ The primary objective of this dashboard is to provide a comprehensive overview o
 1.Understand which product categories (Technology, Furniture, Office Supplies) contribute the most to sales and profit.
 
 2.Evaluate profitability and return rates for each category.
-# key insights of the project
+# Key insights of the project
 
 **Overall Sales Performance:**
 
