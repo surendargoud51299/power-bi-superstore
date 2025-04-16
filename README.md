@@ -41,6 +41,11 @@ Sales are rising steadily from 2020 to 2023.
 The total profit is $292.3K, an increase from the previous year's 196.37K.
 Profit margin appears to be improving.
 
+**Returns Overview:**
+
+Return rate is 5.79%, down slightly from last year (8.74%).
+
+
 **Sales Growth Over Time:**
 
   Sales show an upward trend over time, with some seasonal fluctuations.
