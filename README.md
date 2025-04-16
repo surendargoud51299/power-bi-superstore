@@ -22,6 +22,10 @@ The primary objective of this dashboard is to provide a comprehensive overview o
 
 3.Total quantity sold is 39K.
 
+**Trend Over Time:**
+
+Sales are rising steadily from 2020 to 2023.
+
 **Sales by Category:**
 
 1.Technology leads with 839.89K in sales.
